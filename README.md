@@ -12,3 +12,5 @@
 納得感_公的機関が公開しているデータの使用　　　
 
 pythonコードはdatatableフォルダ内、covid19.jpynbにあります
+また、分析結果は下記URLの自身のブログにて公開しています。アドバイス等いただけると幸いです。
+URL：https://techstudyoutgoing.com/covid19%e6%84%9f%e6%9f%93%e6%8b%a1%e5%a4%a7%e5%85%86%e5%80%99%e5%88%86%e6%9e%90/
